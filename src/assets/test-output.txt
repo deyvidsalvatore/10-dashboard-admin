@@ -1,0 +1,15 @@
+
+> exercicio-base-v16@0.0.0 test
+> ng test
+
+PASS src/app/app.component.spec.ts
+  AppComponent
+    √ should create the app (138 ms)
+    √ should have as title 'exercicio-base-v16' (28 ms)
+    √ should render title (28 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       3 passed, 3 total
+Snapshots:   0 total
+Time:        3.022 s
+Ran all test suites.
